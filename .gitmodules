@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Anthonio08/42Hackathon-Fanilo-vp_dev-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Fitahiana-herizo-RAKOTOMAMPIONONA/42hackathon-Fanilo-vp_dev-backend.git
